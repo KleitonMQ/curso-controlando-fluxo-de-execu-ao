@@ -1,0 +1,15 @@
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\bin\Debug\net6.0\aula1.exe
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\bin\Debug\net6.0\aula1.deps.json
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\bin\Debug\net6.0\aula1.runtimeconfig.json
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\bin\Debug\net6.0\aula1.dll
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\bin\Debug\net6.0\aula1.pdb
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.csproj.AssemblyReference.cache
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.AssemblyInfoInputs.cache
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.AssemblyInfo.cs
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.csproj.CoreCompileInputs.cache
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.dll
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\refint\aula1.dll
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.pdb
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\aula1.genruntimeconfig.cache
+E:\Projetos dev\curso-controlando-fluxo-de-execu-ao\Aula1\obj\Debug\net6.0\ref\aula1.dll
